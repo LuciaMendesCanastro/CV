@@ -208,8 +208,19 @@ body {
     margin-top: 3rem;
     padding-bottom: 2rem;
 }
+.social {
+    text-decoration: none;
+    padding-bottom: 2rem;
+}
+.social:hover {
+    color: white;
+    transform: scale(1.3);
+    transition: 1s;
 
-
+}
+.social-decoration {
+    text-decoration: none;
+}
 
 
 @media screen and (min-width: 1400px) {
