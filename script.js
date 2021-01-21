@@ -48,6 +48,7 @@ let navIndex = document.querySelector('.nav-index');
 function menu(event) {
     event.preventDefault();
     navIndex.classList.toggle('active');
+
 }
 
 burger.addEventListener('click', menu);
