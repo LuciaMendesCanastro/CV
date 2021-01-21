@@ -177,6 +177,8 @@ body {
 .links-center {
     text-align: center;
     color: white;
+    margin-bottom: 1.5rem;
+
 }
 .contact-links {
     text-decoration: none;
@@ -192,6 +194,8 @@ body {
 .social {
     text-decoration: none;
     padding-bottom: 2rem;
+    transition: 1s;
+
 }
 .social:hover {
     color: white;
